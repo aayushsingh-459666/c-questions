@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Q - write a program that accept 2x2 matrix and find theri subtraction.
+// Q - write a program that accept 2x2 matrix and find their subtraction.
 
 
 void main(){

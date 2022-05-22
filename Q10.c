@@ -15,7 +15,7 @@ void main(){
     while (a != 0)
     {
         r = a%10;
-        re = (re*10)+r;
+        re = re+(r*r*r);
         a = a/10;
     }
 
